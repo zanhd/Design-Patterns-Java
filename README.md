@@ -1,4 +1,4 @@
-# Design-Patterns---Java
+# Design-Patterns-Java
 Implementation of Design Patterns using Java
 
 There are numerous design patterns categorized into three main groups: Creational, Structural, and Behavioral. Here's a list of some commonly known design patterns within each category:
